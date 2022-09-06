@@ -1,1 +1,34 @@
 
+cat >lavanya
+   41  cat lavanya
+   42  cat lavanya
+   43  ls
+   44  git status
+   45  git init
+   46  git status
+   47  gigut a
+   48  clear
+   49  git status
+   50  git commit
+   51  git commit -m "this is lavanya file"
+   52  clear
+   53  git log
+   54  git log --oneline
+   55  git status
+   56  git add.
+   57  git add .
+   58  git commit -m "this is lavanya file"
+   59  clear
+   60  git log
+   61  git remote add origin https://github.com/Baratam123/sivakumar.git
+   62  git branch -M main
+   63  git push -u origin main
+   64  git pull https://github.com/Baratam123/sivakumar.git
+   65  clear
+   66  cat lavanya
+   67  clear
+   68  git pull https://github.com/Baratam123/sivakumar.git
+   69  history
+
+SHIVA@DELL MINGW64 ~/Desktop/siva (main)
+$
